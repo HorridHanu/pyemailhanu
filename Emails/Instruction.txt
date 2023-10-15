@@ -1,0 +1,14 @@
+v1.01
+
+before using the pyemailhanu tool, read the instruction carefully to avoid trouble to use. 
+
+This project Contains 4 files including 1.Script.py, 2. body.txt, 3.target_list.txt and last one the instruction.txt. In case of any missing contact the developoer..
+
+contact info ==> Email: horridhanu@gmail.com
+
+Script.py was based on cli mode. you can easily run on any terminal
+body.txt contains the body of your mail you can easily edit the context using of any editor and remeber to save it in same pattern as the developoer.
+
+target_list.txt contain the list of the targets you want to send the emails you can easily edit the context using of any editor and remeber to save it in same pattern as the developoer.
+
+Note: when you did'nt enter the password or skipped to enter the password the Script will close then you have to restart it manually. 
